@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://null-sys.github.io/blogs/blog</id>
+    <title>null-sys  Blog</title>
+    <updated>2019-10-30T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://null-sys.github.io/blogs/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest null-sys  news and events.</subtitle>
+    <logo>https://null-sys.github.io/blogs/img/null-sys.jpg</logo>
+    <rights>Copyright © 2019 null-sys</rights>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Blog]]></title>
+        <id>https://null-sys.github.io/blogs/blog/2019/10/30/Getting-Started-1.0.0.html</id>
+        <link href="https://null-sys.github.io/blogs/blog/2019/10/30/Getting-Started-1.0.0.html">
+        </link>
+        <updated>2019-10-30T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is my first blog using <a href="https://docusaurus.io/en/">docusaurus</a>. Docusaurus is a product of Facebook Open Source.</p>
+]]></summary>
+        <author>
+            <name>Gaurav - NIT Andhra Pradesh</name>
+        </author>
+    </entry>
+</feed>
